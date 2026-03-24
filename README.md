@@ -1,5 +1,8 @@
 # Hustle Vault
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 > Side project organizer: track multiple projects, capture ideas, and context-switch like a pro.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
